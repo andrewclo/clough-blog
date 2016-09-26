@@ -5,4 +5,4 @@ headshot: profile-aclough.jpg
 ---
 
 <h1>{{ page.title }}</h1>
-<p>Sport Technologist</p>
+<p>Professional <span>{WEB}</span> surfer</p>
