@@ -1,6 +1,8 @@
 ---
 title: Andrew Clough
 layout: default
+headshot: profile-aclough.jpg
 ---
 
-Hello!
+<h1>{{ page.title }}</h1>
+<p>Sport Technologist</p>
